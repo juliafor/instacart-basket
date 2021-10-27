@@ -1,5 +1,5 @@
 # portfolio-python
-In this course project I used python pandas, numpy, matplotlib and seaborn libraries to summarise, clean, wrangle and analyse data sets of 32+ million rows for Instacart, an online grocery store that operates through an app. 
+In this course project I used python pandas, numpy, matplotlib and seaborn libraries to summarise, clean, wrangle and analyse data sets of 34+ million rows for Instacart, an online grocery store that operates through an app. 
 
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. So I performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
 
